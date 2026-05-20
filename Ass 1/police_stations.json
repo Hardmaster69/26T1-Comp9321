@@ -1,0 +1,3847 @@
+{
+ "features": [
+  {
+   "attributes": {
+    "generalname": "ARIAH PARK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16388297.3605,
+    "y": -4075471.5419999994
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KOORAWATHA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16537227.922899999,
+    "y": -4033925.5214000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CULCAIRN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16368032.092799999,
+    "y": -4255060.7670999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HENTY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16367558.858000003,
+    "y": -4234379.3051000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CONDOBOLIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16380877.403999999,
+    "y": -3907066.6821000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "FORBES POLICE STATION"
+   },
+   "geometry": {
+    "x": 16476227.513700001,
+    "y": -3946764.7252000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MANILDRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16552551.069300003,
+    "y": -3919720.6079999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOLONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16571782.049099997,
+    "y": -3906927.6127999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HILLSTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16200626.9067,
+    "y": -3960054.2782999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LAKE CARGELLIGO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16294336.586099997,
+    "y": -3935151.7591999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TALLIMBA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16350691.076499999,
+    "y": -4028070.6508000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WALLA WALLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16352803.363499999,
+    "y": -4268552.9607999995
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "JERILDERIE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16222859.788800001,
+    "y": -4212484.7305000015
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LEETON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16297494.385899998,
+    "y": -4103491.8599000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GULGONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16645859.270400003,
+    "y": -3811140.9664000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WARREN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16457259.419500001,
+    "y": -3724241.6180000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BARMEDMAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16407028.089299999,
+    "y": -4048082.5806000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CARINDA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16440609.8653,
+    "y": -3563537.1975999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COONAMBLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16518618.532600001,
+    "y": -3626866.0445999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WALGETT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16488375.141099997,
+    "y": -3506378.0518999994
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "UNGARIE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16360852.207900003,
+    "y": -3980327.180399999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TOORAWEENAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16576626.784699999,
+    "y": -3689903.5069999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BURREN JUNCTION POLICE STATION"
+   },
+   "geometry": {
+    "x": 16582765.3869,
+    "y": -3516843.5106000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PILLIGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16573651.882700004,
+    "y": -3548879.3326000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HOLBROOK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16398686.585900001,
+    "y": -4263125.2873000018
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RAND POLICE STATION"
+   },
+   "geometry": {
+    "x": 16317266.397500001,
+    "y": -4244742.7743000016
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MUNGINDI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16585040.534599997,
+    "y": -3372672.0214000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BELLATA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16674712.837499999,
+    "y": -3493081.6706000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COLLARENEBRI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16539644.8913,
+    "y": -3445214.4222999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NUNDLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16823454.045000002,
+    "y": -3693200.8902000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOONAN FLAT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16835608.909000002,
+    "y": -3753188.6642999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WERRIS CREEK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16770159.727200001,
+    "y": -3678282.3907000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ASHFORD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16819828.6633,
+    "y": -3416500.0848000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DELUNGRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16790223.7293,
+    "y": -3459222.1772999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WARIALDA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16761940.786700003,
+    "y": -3444718.8491000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SOMERTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16769156.986000001,
+    "y": -3624346.1013000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CASSILIS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16695853.187399998,
+    "y": -3764260.3706
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ARMIDALE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16883522.041599996,
+    "y": -3569608.7241999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BALLINA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17094678.529100001,
+    "y": -3359405.7556999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BRUNSWICK HEADS POLICE STATION"
+   },
+   "geometry": {
+    "x": 17093268.779399998,
+    "y": -3317343.3024000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BINGARA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16761477.363899998,
+    "y": -3486492.5777000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MACLEAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 17053746.908699997,
+    "y": -3434079.1700000018
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOODBURN POLICE STATION"
+   },
+   "geometry": {
+    "x": 17070240.449699998,
+    "y": -3384744.8213
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EVANS HEAD POLICE STATION"
+   },
+   "geometry": {
+    "x": 17079599.351899996,
+    "y": -3390898.9153000005
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ILUKA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17070939.536399998,
+    "y": -3427434.680399999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COOLAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16666986.987300001,
+    "y": -3740094.6592999995
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MANILLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16778187.576499999,
+    "y": -3600355.8596000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BENDEMEER POLICE STATION"
+   },
+   "geometry": {
+    "x": 16826582.9925,
+    "y": -3616883.5223999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DENILIQUIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16137308.533299997,
+    "y": -4235476.0152000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MATHOURA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16130382.195100002,
+    "y": -4274961.0023000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOULAMEIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16033857.828000002,
+    "y": -4175902.2773999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GARAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16657421.580799997,
+    "y": -3385343.0718999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BARHAM POLICE STATION"
+   },
+   "geometry": {
+    "x": 16044373.345399998,
+    "y": -4249502.9688999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MERRIWA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16737520.740699999,
+    "y": -3781454.183699999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CUDAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16557679.313500002,
+    "y": -3933582.5025000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DELEGATE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16580299.2148,
+    "y": -4445134.4851000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BYRON BAY POLICE STATION"
+   },
+   "geometry": {
+    "x": 17099810.1351,
+    "y": -3330165.0483999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BELCONNEN WATER POLICE"
+   },
+   "geometry": {
+    "x": 16594041.076300003,
+    "y": -4195814.253800001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BELCONNEN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16594003.232299998,
+    "y": -4197182.5643000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "AFP NATIONAL HEADQUARTERS"
+   },
+   "geometry": {
+    "x": 16601706.975699998,
+    "y": -4205406.7382000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GUNGAHLIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16601333.272,
+    "y": -4188701.2351999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TUGGERANONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16594409.696900003,
+    "y": -4220855.5850000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "AFP SERVICES CENTRE"
+   },
+   "geometry": {
+    "x": 16592780.729099996,
+    "y": -4208746.9682999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BUNGENDORE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16635996.029899999,
+    "y": -4198572.4899999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NARRANDERA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16313827.612800002,
+    "y": -4129787.9228000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LAWRENCE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17043524.663099997,
+    "y": -3438958.1381999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EUGOWRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16516613.2227,
+    "y": -3952333.1424000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PALLAMALLAWA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16713126.076499999,
+    "y": -3436342.5379000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LORD HOWE ISLAND POLICE STATION"
+   },
+   "geometry": {
+    "x": 17707178.962200001,
+    "y": -3701357.9365000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WODEN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16596489.522299998,
+    "y": -4210916.1521000005
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ACT WATER POLICE"
+   },
+   "geometry": {
+    "x": 16597711.794,
+    "y": -4204567.9714000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WINCHESTER POLICE CENTRE REGIONAL HQ"
+   },
+   "geometry": {
+    "x": 16594011.803900003,
+    "y": -4197064.5723999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TOTTENHAM POLICE STATION"
+   },
+   "geometry": {
+    "x": 16403538.223800004,
+    "y": -3795414.3222999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WINGHAM POLICE STATION"
+   },
+   "geometry": {
+    "x": 16962321.823799998,
+    "y": -3746394.5571999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COMBOYNE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16972492.697300002,
+    "y": -3711680.4398999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CROOKWELL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16638691.6303,
+    "y": -4090263.3541000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TUENA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16622657.3939,
+    "y": -4030695.6035999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BIGGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16603182.939800002,
+    "y": -4040385.0150000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GOULBURN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16666964.444600001,
+    "y": -4130438.8574000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TARCUTTA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16446045.4551,
+    "y": -4201661.6002999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ADAMINABY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16561456.721000001,
+    "y": -4299915.1022999994
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HARDEN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16516424.091200002,
+    "y": -4103514.5678999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COOTAMUNDRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16477967.325400002,
+    "y": -4115095.7380000018
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "JUGIONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16511360.501800001,
+    "y": -4139733.0755000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GANMAIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16368667.504699998,
+    "y": -4136233.8748000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COOLAMON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16386387.810800001,
+    "y": -4138463.6418999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "STOCKINBINGAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16462607.128300004,
+    "y": -4095773.5311000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CARAGABAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16446144.532200001,
+    "y": -4007883.0826000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LOCKHART POLICE STATION"
+   },
+   "geometry": {
+    "x": 16332596.711499996,
+    "y": -4193976.2606000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MARULAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16698740.592600003,
+    "y": -4124516.7014999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TRUNDLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16442902.865800001,
+    "y": -3885333.5326000005
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ARDLETHAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16353288.716399997,
+    "y": -4076774.8706
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOGGABRI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16702904.609200001,
+    "y": -3594532.4820999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GUNNEDAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16726510.2421,
+    "y": -3629986.0987999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MENDOORAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16599680.2667,
+    "y": -3740080.0604000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NYNGAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16385523.278899997,
+    "y": -3706216.4241999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BARRABA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16766076.146600001,
+    "y": -3552346.2802000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "YETMAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16784240.326200001,
+    "y": -3363074.3403999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOOMI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16651130.683399998,
+    "y": -3340695.8597999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RANKINS SPRINGS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16281731.101000004,
+    "y": -4007437.4270000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TARALGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16677975.722499996,
+    "y": -4083346.3874999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BARELLAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16316126.040700004,
+    "y": -4067259.8233000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "URANA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16282490.659400001,
+    "y": -4209158.3827
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DARLINGTON POINT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16252662.909900002,
+    "y": -4105257.9173000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COLEAMBALLY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16239209.059299998,
+    "y": -4137719.1623999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COBARGO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16685647.416599996,
+    "y": -4354292.4809999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BUNDANOON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16731171.112899996,
+    "y": -4117312.3475000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SOUTHERN HIGHLANDS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16739439.221299998,
+    "y": -4102864.175999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CANBERRA CITY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16600686.567299999,
+    "y": -4202143.3000999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TEMORA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16423536.659100004,
+    "y": -4088993.2320999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "JUNEE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16429143.710199997,
+    "y": -4146494.6044999994
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOOROWA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16554966.126699999,
+    "y": -4087940.6281000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BANGALOW POLICE STATION"
+   },
+   "geometry": {
+    "x": 17090647.316500001,
+    "y": -3335692.2710999995
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COBAR POLICE STATION"
+   },
+   "geometry": {
+    "x": 16234370.000600003,
+    "y": -3697705.0581
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NYMAGEE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16288135.354900002,
+    "y": -3771777.1684999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOURKE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16245653.7927,
+    "y": -3515156.3761
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TALBINGO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16508620.151100002,
+    "y": -4243176.2998999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PERISHER VALLEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16521142.7016,
+    "y": -4356520.4659999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "THREDBO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16509109.064400002,
+    "y": -4370182.9571999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KHANCOBAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16489311.449500002,
+    "y": -4330412.6011999995
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CURLEWIS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16727415.603600003,
+    "y": -3647941.1735000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HOWLONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16322132.2839,
+    "y": -4297748.4208999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TULLAMORE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16427056.2601,
+    "y": -3846524.0791999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GULARGAMBONE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16527600.153800003,
+    "y": -3675658.6695999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TAMBAR SPRINGS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16678885.1065,
+    "y": -3678098.7333999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KOOTINGAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16815116.347499996,
+    "y": -3640717.3801000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WALCHA ROAD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16854255.350100003,
+    "y": -3625605.6442000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TRANGIE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16473308.986100003,
+    "y": -3767379.5709000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOWRAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16744784.558200002,
+    "y": -4093354.4811000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CASINO POLICE STATION"
+   },
+   "geometry": {
+    "x": 17037142.938900001,
+    "y": -3358655.7635000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ALSTONVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17080457.909599997,
+    "y": -3355052.9633999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NIMBIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 17056633.311999999,
+    "y": -3324522.3361000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CORAKI POLICE STATION"
+   },
+   "geometry": {
+    "x": 17063762.880599998,
+    "y": -3373604.0238999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KYOGLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17032436.573399998,
+    "y": -3327457.7800000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MULLUMBIMBY POLICE STATION"
+   },
+   "geometry": {
+    "x": 17087480.456100002,
+    "y": -3318832.1290000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOGGABILLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16737992.846900001,
+    "y": -3325446.7723000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GRAFTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 17024469.994099997,
+    "y": -3464193.1754000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GRAVESEND POLICE STATION"
+   },
+   "geometry": {
+    "x": 16735004.029700004,
+    "y": -3450018.7377999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ULMARRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17035054.585699998,
+    "y": -3456123.1127999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COPMANHURST POLICE STATION"
+   },
+   "geometry": {
+    "x": 17007027.788199998,
+    "y": -3450282.8172000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOOLI POLICE STATION"
+   },
+   "geometry": {
+    "x": 17061147.985600002,
+    "y": -3484696.0476999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "URUNGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17034322.214199997,
+    "y": -3567284.9096000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DORRIGO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16999587.082199998,
+    "y": -3547515.8685999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GLENREAGH POLICE STATION"
+   },
+   "geometry": {
+    "x": 17029494.288599998,
+    "y": -3510079.0681000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CORAMBA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17033209.130999997,
+    "y": -3531854.7137000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOOLGOOLGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17053790.101300001,
+    "y": -3517914.6451999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COFFS HARBOUR WATER POLICE"
+   },
+   "geometry": {
+    "x": 17047827.026799999,
+    "y": -3542574.8416000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NYMBOIDA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17001353.611699998,
+    "y": -3500503.9219999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BELLBROOK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16977286.449000001,
+    "y": -3609306.8282999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MACKSVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17023925.975699998,
+    "y": -3594966.4750000015
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NAMBUCCA HEADS POLICE STATION"
+   },
+   "geometry": {
+    "x": 17032124.434,
+    "y": -3586357.1471000016
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOWRAVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17015558.424099997,
+    "y": -3586777.6583000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BARADINE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16594044.722499996,
+    "y": -3625866.9571000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GWABEGAR POLICE STATION"
+   },
+   "geometry": {
+    "x": 16583469.927900001,
+    "y": -3581763.8832999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WAUCHOPE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17002044.571800001,
+    "y": -3692072.3020000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GLADSTONE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17025783.564499997,
+    "y": -3636280.5265000015
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LAURIETON POLICE STATION"
+   },
+   "geometry": {
+    "x": 17009287.017999999,
+    "y": -3717030.0053999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COOPERNOOK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16988803.969099998,
+    "y": -3740368.4701999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "FINLEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16205463.445799999,
+    "y": -4251705.4211999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MULWALA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16253228.635899998,
+    "y": -4299096.8883999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TOCUMWAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16204515.561300002,
+    "y": -4274770.0119999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOMBALA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16613427.5616,
+    "y": -4426836.5331000015
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "OAKLANDS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16271130.924699999,
+    "y": -4239752.1655000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COROWA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16296031.387100004,
+    "y": -4300433.6394999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GOOLGOWI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16220289.978399999,
+    "y": -4026154.6871999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NIMMITABEL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16618221.758299999,
+    "y": -4371364.3308999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MICHELAGO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16604968.8389,
+    "y": -4261252.8632000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CAPTAINS FLAT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16636520.0101,
+    "y": -4244093.9105000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BAROOGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16218001.2487,
+    "y": -4288810.9798000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOAMA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16114524.0211,
+    "y": -4315738.7193999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MURRURUNDI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16790355.630199999,
+    "y": -3732342.0324999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WILLOW TREE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16778586.022200003,
+    "y": -3716984.3506999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NOWENDOC POLICE STATION"
+   },
+   "geometry": {
+    "x": 16888901.733000003,
+    "y": -3699496.0073000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BULAHDELAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16944093.203000002,
+    "y": -3817585.4378000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NABIAC POLICE STATION"
+   },
+   "geometry": {
+    "x": 16962789.534400001,
+    "y": -3776216.6213000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DUNGOG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16893206.837800004,
+    "y": -3816147.3042000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GLOUCESTER POLICE STATION"
+   },
+   "geometry": {
+    "x": 16916019.095700003,
+    "y": -3763865.8935999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EAST GRESFORD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16870650.2042,
+    "y": -3819715.4384000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DENMAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16774462.448100001,
+    "y": -3815115.256000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "JERRYS PLAINS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16798866.240900002,
+    "y": -3828655.940200001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SCONE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16794710.4617,
+    "y": -3769984.3117999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MUSWELLBROOK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16796942.640299998,
+    "y": -3798183.0813000016
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GEURIE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16567394.725199997,
+    "y": -3815846.5665000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NARROMINE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16502152.111599997,
+    "y": -3793997.0461000018
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WALLENDBEEN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16492861.316699997,
+    "y": -4099780.6457000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BATLOW POLICE STATION"
+   },
+   "geometry": {
+    "x": 16491283.805799998,
+    "y": -4234978.1361999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TUMBARUMBA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16476594.354099996,
+    "y": -4269934.7190000005
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BERRIGAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16231814.092399999,
+    "y": -4253717.7780000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DUBBO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16542465.399499997,
+    "y": -3795722.3830000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DUNEDOO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16630696.873199999,
+    "y": -3765646.5119000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BINNAWAY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16628785.148199998,
+    "y": -3704297.1424999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COONABARABRAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16617536.229500003,
+    "y": -3668331.0020000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GILGANDRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16549538.008900002,
+    "y": -3725327.3588000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NARRABRI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16674083.425800003,
+    "y": -3545954.317499999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WEE WAA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16636306.135600001,
+    "y": -3532452.2824000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOREE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16680508.033200003,
+    "y": -3434878.7734999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "QUIRINDI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16773545.069300003,
+    "y": -3698933.1110000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "INVERELL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16821853.025399998,
+    "y": -3474858.1671000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PARKES POLICE STATION"
+   },
+   "geometry": {
+    "x": 16494973.580700003,
+    "y": -3913479.8674000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TAREE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16971388.4023,
+    "y": -3751918.9448999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "STROUD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16917060.915299997,
+    "y": -3816235.7259999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "FORSTER POLICE STATION"
+   },
+   "geometry": {
+    "x": 16977711.859099999,
+    "y": -3787312.2423
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "URALLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16865277.445,
+    "y": -3586504.0012000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GUYRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16883939.680299997,
+    "y": -3532212.9356000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WALCHA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16875288.5682,
+    "y": -3630523.5687000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COFFS HARBOUR POLICE STATION"
+   },
+   "geometry": {
+    "x": 17044899.251000002,
+    "y": -3541097.3407999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GLEN INNES POLICE STATION"
+   },
+   "geometry": {
+    "x": 16891268.465800002,
+    "y": -3469777.0405000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TENTERFIELD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16922577.7544,
+    "y": -3382030.6286999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LISMORE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17062928.323600002,
+    "y": -3350916.2683000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WARDELL POLICE STATION"
+   },
+   "geometry": {
+    "x": 17083449.392099999,
+    "y": -3369611.193
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "YAMBA POLICE STATION"
+   },
+   "geometry": {
+    "x": 17071623.273999996,
+    "y": -3431405.2553000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BONALBO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16989880.126400001,
+    "y": -3342178.2507000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TAMWORTH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16801669.587800004,
+    "y": -3644527.1697999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TINGHA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16832829.668499999,
+    "y": -3497846.8962999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DEEPWATER POLICE STATION"
+   },
+   "geometry": {
+    "x": 16903826.314800002,
+    "y": -3432426.7241000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EMMAVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16875836.867399998,
+    "y": -3432406.248300001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KEMPSEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 17013087.781499997,
+    "y": -3643018.6629999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MURWILLUMBAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 17076100.795000002,
+    "y": -3290173.053199999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TWEED HEADS POLICE STATION"
+   },
+   "geometry": {
+    "x": 17092201.043200001,
+    "y": -3270900.1721000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KINGSCLIFF POLICE STATION"
+   },
+   "geometry": {
+    "x": 17095584.354599997,
+    "y": -3280732.4101999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SOUTH WEST ROCKS POLICE STATION"
+   },
+   "geometry": {
+    "x": 17036475.1932,
+    "y": -3617959.3671999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BELLINGEN POLICE STATION"
+   },
+   "geometry": {
+    "x": 17020496.315399997,
+    "y": -3561792.114599999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "QUEANBEYAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16612344.750600003,
+    "y": -4212166.5626000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TABULAM POLICE STATION"
+   },
+   "geometry": {
+    "x": 16983569.275600001,
+    "y": -3361701.1462999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOODENBONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16988357.360399999,
+    "y": -3298075.0397999994
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PEAK HILL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16496399.237400003,
+    "y": -3858981.9849000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CUMNOCK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16558915.631099999,
+    "y": -3885986.8726000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "YEOVAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16547659.003899999,
+    "y": -3862458.2622999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WELLINGTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16580379.834299996,
+    "y": -3836521.310899999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "STUART TOWN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16595819.266900003,
+    "y": -3869536.500500001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KANDOS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16694488.633100003,
+    "y": -3876449.502799999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RYLSTONE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16694602.624300003,
+    "y": -3868651.686999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MUDGEE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16651473.446199998,
+    "y": -3840993.8550999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CESSNOCK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16849094.634400003,
+    "y": -3873052.940200001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KURRI KURRI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16863016.880099997,
+    "y": -3871032.1336000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BRANXTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16848512.618299998,
+    "y": -3849938.8898999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LOCHINVAR POLICE STATION"
+   },
+   "geometry": {
+    "x": 16859853.291699998,
+    "y": -3855741.9712999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SINGLETON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16828592.622100003,
+    "y": -3837522.4974999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOLLOMBI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16824906.757799998,
+    "y": -3887053.4079999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BULGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16812010.317000002,
+    "y": -3849774.5907999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MORPETH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16879697.994900003,
+    "y": -3858923.3834000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MAITLAND POLICE STATION"
+   },
+   "geometry": {
+    "x": 16870797.049099997,
+    "y": -3859787.3495000005
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NEWCASTLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16896413.283500001,
+    "y": -3886063.8132000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CHARLESTOWN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16886818.670500003,
+    "y": -3890553.5273999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NEWCASTLE WATER POLICE"
+   },
+   "geometry": {
+    "x": 16894108.189900003,
+    "y": -3884350.0465000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RAYMOND TERRACE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16892156.711900003,
+    "y": -3863903.8542999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PATERSON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16877909.536200002,
+    "y": -3842293.7470000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WARATAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16889856.398100004,
+    "y": -3882831.0126999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "STOCKTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16896457.033,
+    "y": -3883536.432
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CLARENCE TOWN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16895978.379799999,
+    "y": -3840429.9173000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KARUAH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16916372.757200003,
+    "y": -3849643.1123999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BERESFIELD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16882524.556100003,
+    "y": -3868931.0496000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NELSON BAY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16936278.129600003,
+    "y": -3858265.3588999994
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TEA GARDENS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16938179.149499997,
+    "y": -3850902.8310000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PORT STEPHENS WATER POLICE"
+   },
+   "geometry": {
+    "x": 16936458.7962,
+    "y": -3858041.4371999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LEMON TREE PASSAGE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16925019.118500002,
+    "y": -3859746.5835999995
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SWANSEA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16880182.922700003,
+    "y": -3906859.8044999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TOUKLEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16869857.240199998,
+    "y": -3930461.1759000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BELMONT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16882742.456100002,
+    "y": -3899891.3621000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TORONTO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16875256.112599999,
+    "y": -3896954.7373999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOY WOY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16845413.465999998,
+    "y": -3960068.2769000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MORISSET POLICE STATION"
+   },
+   "geometry": {
+    "x": 16863623.126400001,
+    "y": -3909632.9294000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GOSFORD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16847250.701399997,
+    "y": -3952577.9061999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TERRIGAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16858659.042099997,
+    "y": -3954823.3092
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "THE ENTRANCE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16864644.101599999,
+    "y": -3941210.0742999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WYONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16856502.793099999,
+    "y": -3932684.0687000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WISEMANS FERRY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16807561.9626,
+    "y": -3946706.3310999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WALLERAWANG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16705069.996600002,
+    "y": -3950098.0927999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LITHGOW POLICE STATION"
+   },
+   "geometry": {
+    "x": 16715108.3895,
+    "y": -3959602.6301000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BATHURST POLICE STATION"
+   },
+   "geometry": {
+    "x": 16650865.110399999,
+    "y": -3950465.868999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PORTLAND POLICE STATION"
+   },
+   "geometry": {
+    "x": 16695525.515299998,
+    "y": -3942335.125
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CAPERTEE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16696536.467,
+    "y": -3914812.372200001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HILL END POLICE STATION"
+   },
+   "geometry": {
+    "x": 16632759.6382,
+    "y": -3900042.1721000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ORANGE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16597754.829999998,
+    "y": -3932694.5881999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MILLTHORPE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16607218.382399999,
+    "y": -3954464.6973999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CANOWINDRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16549317.108400002,
+    "y": -3970988.866799999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOODSTOCK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16569621.4494,
+    "y": -3994856.0551000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COWRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16552210.269199997,
+    "y": -4006527.5932999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MANDURAMA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16594612.674699999,
+    "y": -3982059.2397999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BLAYNEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16614888.963799998,
+    "y": -3966667.5678999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TRUNKEY CREEK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16622535.471699998,
+    "y": -4004547.6264000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CARCOAR POLICE STATION"
+   },
+   "geometry": {
+    "x": 16602325.111599997,
+    "y": -3976716.5390999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ROCKLEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16649272.883000001,
+    "y": -3987222.7351000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "OBERON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16682543.9406,
+    "y": -3989359.4087999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LAWSON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16745466.254100002,
+    "y": -3991446.5221000016
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KATOOMBA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16732474.406300001,
+    "y": -3991095.2391999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOUNT VICTORIA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16726411.167000003,
+    "y": -3973787.6026999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BLACKHEATH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16729816.017399997,
+    "y": -3979967.0119000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BASS HILL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16809061.213799998,
+    "y": -4014310.9422999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LIVERPOOL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16800975.108199999,
+    "y": -4018243.9019000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ST MARYS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16784264.5744,
+    "y": -3997952.2630000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOUNT DRUITT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16789507.761699997,
+    "y": -3997334.3737999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BLACKTOWN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16798690.690300003,
+    "y": -3997769.7397000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WETHERILL PARK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16798230.958700001,
+    "y": -4010279.8553999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "FAIRFIELD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16804408.259000003,
+    "y": -4011365.065299999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WENTWORTHVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16806159.682899997,
+    "y": -4002838.6506000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MACQUARIE FIELDS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16797058.751900002,
+    "y": -4026885.2333000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GREEN VALLEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16794340.784400001,
+    "y": -4016259.6479999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RIVERSTONE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16793910.015699998,
+    "y": -3986085.9386
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SPRINGWOOD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16760523.5889,
+    "y": -3988505.006099999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PENRITH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16775973.933200002,
+    "y": -3995846.2355999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WINDSOR POLICE STATION"
+   },
+   "geometry": {
+    "x": 16788816.997199997,
+    "y": -3976844.9604000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WARRAGAMBA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16765369.315399997,
+    "y": -4014014.3055999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MERRYLANDS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16807974.552100003,
+    "y": -4006990.0623999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CABRAMATTA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16802011.598300003,
+    "y": -4014809.0203999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MOSMAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16836435.089900002,
+    "y": -4006364.7197999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EASTWOOD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16818558.658799998,
+    "y": -4000673.3161000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KINGS CROSS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16834356.855999999,
+    "y": -4011773.4649999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ERMINGTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16815143.042400002,
+    "y": -4004014.8112999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "AUBURN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16812975.986500002,
+    "y": -4009061.118999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "FIVE DOCK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16823519.389300004,
+    "y": -4011106.0066
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DEE WHY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16841011.430500001,
+    "y": -3995603.6658000015
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ROSE BAY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16837369.969300002,
+    "y": -4011334.2258000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ASHFIELD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16823748.198899999,
+    "y": -4014144.0163000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GLEBE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16830219.914499998,
+    "y": -4012722.8775000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BANKSTOWN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16812684.943000004,
+    "y": -4017649.1563999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "REVESBY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16811184.7927,
+    "y": -4022358.6827000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BURWOOD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16820930.988600001,
+    "y": -4012551.4818999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MAROUBRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16835655.078199998,
+    "y": -4020888.9945
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MONA VALE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16842931.255199999,
+    "y": -3986106.9622999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BROKEN BAY WATER POLICE"
+   },
+   "geometry": {
+    "x": 16840471.298799999,
+    "y": -3981348.680399999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HORNSBY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16820078.087899998,
+    "y": -3988766.3436999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GORDON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16826215.239100002,
+    "y": -3995816.2875000015
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "FRENCHS FOREST POLICE STATION"
+   },
+   "geometry": {
+    "x": 16834671.042000003,
+    "y": -3995178.4367000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HURSTVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16820558.779700004,
+    "y": -4024434.944600001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MARRICKVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16826575.526500002,
+    "y": -4016624.8218999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CAMPSIE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16820195.805100001,
+    "y": -4016869.9305999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SURRY HILLS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16833015.8323,
+    "y": -4012663.1755999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PADDINGTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16835141.144500002,
+    "y": -4013808.193
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NEWTOWN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16829119.564999998,
+    "y": -4014929.818599999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "REDFERN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16831497.151600003,
+    "y": -4014309.8170999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DAY STREET POLICE STATION"
+   },
+   "geometry": {
+    "x": 16831942.378300004,
+    "y": -4012071.8715999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RANDWICK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16836073.152999997,
+    "y": -4017103.5590000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WAVERLEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16837278.700499997,
+    "y": -4015101.118900001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BONDI BEACH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16839729.844700001,
+    "y": -4014057.0843000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PARRAMATTA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16809537.995099999,
+    "y": -4003639.2580000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GRANVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16810285.373499997,
+    "y": -4006297.9323000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RYDE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16820372.595899999,
+    "y": -4004062.9296999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GLADESVILLE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16823602.530400001,
+    "y": -4006916.1904999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CHATSWOOD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16829974.400600001,
+    "y": -4001552.8288999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NORTH SYDNEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16832050.4472,
+    "y": -4006431.4079999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BALMAIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16828973.042400002,
+    "y": -4009554.5454999991
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "THE ROCKS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16832502.055200003,
+    "y": -4009947.374400001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MANLY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16840971.806299999,
+    "y": -4001726.6634000018
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MASCOT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16831071.131800003,
+    "y": -4018675.2795999981
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SYDNEY WATER POLICE"
+   },
+   "geometry": {
+    "x": 16830546.768399999,
+    "y": -4009865.2027999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CASTLE HILL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16809710.881300002,
+    "y": -3992709.3026000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "RIVERWOOD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16814929.211800002,
+    "y": -4022792.6567000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOOLLOOMOOLOO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16833623.5255,
+    "y": -4011701.4166000001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ST GEORGE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16824122.5581,
+    "y": -4023943.6341999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SUTHERLAND POLICE STATION"
+   },
+   "geometry": {
+    "x": 16816229.056500003,
+    "y": -4033119.7468999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MIRANDA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16820736.725100003,
+    "y": -4033111.3977000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BOTANY BAY WATER POLICE"
+   },
+   "geometry": {
+    "x": 16823140.313100003,
+    "y": -4029077.3845999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CRONULLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16826165.751000002,
+    "y": -4035696.3112000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DAPTO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16786807.222900003,
+    "y": -4095549.9899000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WOLLONGONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16797615.565899998,
+    "y": -4085923.433699999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PORT KEMBLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16798359.667400002,
+    "y": -4093398.5210000016
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PICTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16766075.637699999,
+    "y": -4051394.9340000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "THE OAKS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16761685.530699998,
+    "y": -4039485.2963000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CAMPBELLTOWN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16788894.279899999,
+    "y": -4037206.4501999989
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CORRIMAL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16797737.035099998,
+    "y": -4080068.1517000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HELENSBURGH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16807007.9256,
+    "y": -4054417.2925999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PORT KEMBLA WATER POLICE"
+   },
+   "geometry": {
+    "x": 16799535.905500002,
+    "y": -4092808.9686000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NARELLAN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16779340.679099999,
+    "y": -4034477.3161999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "PORT MACQUARIE POLICE STATION"
+   },
+   "geometry": {
+    "x": 17021832.475500003,
+    "y": -3688481.2829999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BERRY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16775048.433799997,
+    "y": -4133645.6678999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CULBURRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16781796.065300003,
+    "y": -4154643.7800000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KANGAROO VALLEY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16757474.870800003,
+    "y": -4128186.4404999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NOWRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16764896.723200001,
+    "y": -4147463.4959999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ROBERTSON POLICE STATION"
+   },
+   "geometry": {
+    "x": 16763943.534999996,
+    "y": -4108172.2144999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "KIAMA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16793197.1844,
+    "y": -4119334.1171000004
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LAKE ILLAWARRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16789164.548799999,
+    "y": -4105776.0808999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "SUSSEX INLET POLICE STATION"
+   },
+   "geometry": {
+    "x": 16764638.057499997,
+    "y": -4185047.3995999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "JERVIS BAY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16776606.932300001,
+    "y": -4181911.0190000013
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BAY AND BASIN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16767369.245800003,
+    "y": -4178198.3147
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ULLADULLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16750785.705300003,
+    "y": -4211857.8709000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BATEMANS BAY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16717641.529399998,
+    "y": -4260535.4338000007
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MORUYA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16706871.0154,
+    "y": -4288242.3914999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BERMAGUI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16706589.173199996,
+    "y": -4359641.6662000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "NAROOMA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16712530.851599999,
+    "y": -4330518.7056000009
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BODALLA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16703692.973899998,
+    "y": -4313188.7774999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BEGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16680098.637800001,
+    "y": -4394159.6777000017
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "CANDELO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16664051.101899996,
+    "y": -4406995.4461999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BEMBOKA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16650377.506300002,
+    "y": -4387679.503800001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MERIMBULA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16687482.5185,
+    "y": -4423423.3990999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TATHRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16696428.931999996,
+    "y": -4401395.7325000018
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EDEN POLICE STATION"
+   },
+   "geometry": {
+    "x": 16687654.173299998,
+    "y": -4448638.8801000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EDEN WATER POLICE"
+   },
+   "geometry": {
+    "x": 16687921.3508,
+    "y": -4449196.6484000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COOMA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16600230.744199999,
+    "y": -4332926.1006000005
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BERRIDALE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16567275.391400002,
+    "y": -4350632.0377000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "JINDABYNE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16544694.789099999,
+    "y": -4358144.7936999984
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BRAIDWOOD POLICE STATION"
+   },
+   "geometry": {
+    "x": 16675597.493299998,
+    "y": -4224079.9862000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TARAGO POLICE STATION"
+   },
+   "geometry": {
+    "x": 16658857.975500003,
+    "y": -4173939.1092999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ALBURY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16354846.521399997,
+    "y": -4311583.7380999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WEST WYALONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16386765.939000003,
+    "y": -4018636.7912000008
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GRIFFITH POLICE STATION"
+   },
+   "geometry": {
+    "x": 16258056.339900002,
+    "y": -4067462.9992999993
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "THE ROCK POLICE STATION"
+   },
+   "geometry": {
+    "x": 16376974.387199998,
+    "y": -4200801.5797000006
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WAGGA WAGGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16405363.6404,
+    "y": -4178369.6273999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ADELONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16482203.227200001,
+    "y": -4205794.6325000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TUMUT POLICE STATION"
+   },
+   "geometry": {
+    "x": 16500391.412500001,
+    "y": -4204806.071800001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GUNDAGAI POLICE STATION"
+   },
+   "geometry": {
+    "x": 16487027.841899998,
+    "y": -4172546.124400001
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "YASS POLICE STATION"
+   },
+   "geometry": {
+    "x": 16576448.385300003,
+    "y": -4142221.873399999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BINALONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16545247.156599998,
+    "y": -4119171.9631000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COLLECTOR POLICE STATION"
+   },
+   "geometry": {
+    "x": 16634567.189999998,
+    "y": -4152377.8258000016
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GUNNING POLICE STATION"
+   },
+   "geometry": {
+    "x": 16616237.154100001,
+    "y": -4134257.1871999986
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "YOUNG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16508479.330300003,
+    "y": -4071180.0898000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GOOLOOGONG POLICE STATION"
+   },
+   "geometry": {
+    "x": 16523774.850699998,
+    "y": -3977259.1053999998
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GRENFELL POLICE STATION"
+   },
+   "geometry": {
+    "x": 16493177.4036,
+    "y": -4014833.4580999985
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GREENETHORPE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16520384.170999996,
+    "y": -4028339.0529000014
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BUNDARRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16817561.669200003,
+    "y": -3525637.5942000002
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "TIBOOBURRA POLICE STATION"
+   },
+   "geometry": {
+    "x": 15808607.568700001,
+    "y": -3430805.7730999999
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "ENNGONIA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16235497.416199997,
+    "y": -3416167.1975999996
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "GOODOOGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16414163.068300001,
+    "y": -3390242.7663000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "LIGHTNING RIDGE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16472863.920100003,
+    "y": -3430125.0254000016
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BREWARRINA POLICE STATION"
+   },
+   "geometry": {
+    "x": 16348378.565700002,
+    "y": -3498612.3337000012
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WANAARING POLICE STATION"
+   },
+   "geometry": {
+    "x": 16046631.188100003,
+    "y": -3465638.4362999983
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BROKEN HILL POLICE STATION"
+   },
+   "geometry": {
+    "x": 15747140.712099999,
+    "y": -3758095.8343999982
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WILCANNIA POLICE STATION"
+   },
+   "geometry": {
+    "x": 15960536.223499998,
+    "y": -3705804.9695999995
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "COCKBURN POLICE STATION"
+   },
+   "geometry": {
+    "x": 15696013.212700002,
+    "y": -3773545.1484999992
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "MENINDEE POLICE STATION"
+   },
+   "geometry": {
+    "x": 15853842.727200001,
+    "y": -3815084.6803000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "IVANHOE POLICE STATION"
+   },
+   "geometry": {
+    "x": 16063393.281599998,
+    "y": -3881807.8506000005
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "WENTWORTH POLICE STATION"
+   },
+   "geometry": {
+    "x": 15798317.306500003,
+    "y": -4043026.1169999987
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "DARETON POLICE STATION"
+   },
+   "geometry": {
+    "x": 15812278.217500001,
+    "y": -4041614.9527000003
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BURONGA POLICE STATION"
+   },
+   "geometry": {
+    "x": 15827662.571900003,
+    "y": -4051670.7490999997
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "EUSTON POLICE STATION"
+   },
+   "geometry": {
+    "x": 15890340.7786,
+    "y": -4106382.5454000011
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "BALRANALD POLICE STATION"
+   },
+   "geometry": {
+    "x": 15981599.170999996,
+    "y": -4115261.3515999988
+   }
+  },
+  {
+   "attributes": {
+    "generalname": "HAY POLICE STATION"
+   },
+   "geometry": {
+    "x": 16123771.971699998,
+    "y": -4097334.3892999999
+   }
+  }
+ ]
+}
